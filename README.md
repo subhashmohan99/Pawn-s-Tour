@@ -41,7 +41,7 @@ Now we need to install all of the dependencies:
 $ bundle install
 ```
 
-## Run The Program
+## Run Program
 
 Navigate to the project folder if not already there.
 
