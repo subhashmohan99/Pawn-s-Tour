@@ -4,7 +4,7 @@
 
 - [Objective](#objective)
 - [Installation](#installation)
-- [Run The Program](#run-the-program)
+- [Run Program](#run-program)
 - [Solution](#solution)
 - [Testing](#testing)
 - [Built With](#built-with)
