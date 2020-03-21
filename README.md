@@ -4,7 +4,7 @@
 
 - [Objective](#objective)
 - [Installation](#installation)
-- [How to Run it?](#how-to-run-it?)
+- [Run The Program](#run-the-program)
 - [Solution](#solution)
 - [Testing](#testing)
 - [Built With](#built-with)
@@ -41,7 +41,7 @@ Now we need to install all of the dependencies:
 $ bundle install
 ```
 
-## How to Run it?
+## Run The Program
 
 Navigate to the project folder if not already there.
 
